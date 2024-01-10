@@ -1,0 +1,2 @@
+# mediasoftcloudpos
+A wordpress project
